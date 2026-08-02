@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dafoolioo/AspectV4/main/AspectV4.lua", true))()
